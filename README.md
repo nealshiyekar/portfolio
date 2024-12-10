@@ -60,20 +60,29 @@ Space X Falcon 9 First Stage Landing Prediction
 
 ## Class Projects
 
-### Financial Analysis
+### Computation Methods for Data Scientists - Financial Analysis
 
 - Visualize the difference in portofilio gain for Microsoft stock the past 30 years with Buy and Hold or Active Trading strategy
 - View the trends in stock prices for Microsoft using different trading strategies
 - Utilized yfinance and pandas libraries
   
 [**Visit Colab**](https://colab.research.google.com/drive/1FZC4aMcyg2YW0_ei7_lyfgVlj3TpPeKv?usp=sharing)
+<br>
 
 
+### Computation Methods for Data Scientists - Neural Network Classification
 
-### Neural Network Classification
+-   Perform Image Classification on 6 various labels using MobileNetV2 model
+-   Conducted hyper-parameter tuning to improve test accuracy
 
+[**Visit Colab**](https://colab.research.google.com/drive/14ZI6y11B2KHNddd26R33Z_ewQIsyWoNt?usp=sharing)
+<br>
+### Big Data - KMeans Clustering & Recommender Systems
 
-### Big Data - Recommender Systems
+- K-means clustering analysis with Spark MLlib on housing datatset
+- Collaborative filtering to find the accuracy of an ALS model with
+Spark MLlib on movie ratings
 
+[**Visit Colab**](https://colab.research.google.com/drive/1P5yUPWnJTTwiPoOapF_qyf4ORWKfJjqQ?usp=sharing)
 
 
