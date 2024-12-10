@@ -3,6 +3,7 @@
 
 ## Education		        		
 B.S. Data Science | The University of Texas at Dallas (_Aug 2022)
+
 National Merit Scholar and Collegium V Honors
 
 ## Personal Projects
