@@ -8,7 +8,7 @@ National Merit Scholar and Collegium V Honors
 <br>
 ## Personal Projects
 
-<br>
+
 ### Kalasalingam Speech Recgnition
 
 - Led team at UTD and worked concurrently with Kalasalingam Academy to build a speech module in Python that allows people to operate computer application via voice commands.
