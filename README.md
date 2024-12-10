@@ -19,7 +19,9 @@ National Merit Scholar and Collegium V Honors
 
 **Skills**: Python, International Collaboration, Project Management, Workflow Design
 
-**Link**: https://www.youtube.com/watch?v=vant6FqamCY
+[**Watch Demo**](https://www.youtube.com/watch?v=vant6FqamCY)
+
+
 
 <br>
 
@@ -30,7 +32,7 @@ Draft strategic recommendations for product enhancements or marketing strategies
 
 **Skills**: Python, EDA, Data Visualization, NLP, Webscraping
 
-**Link**: https://github.com/nealshiyekar/Beats-by-Dre-externship.git
+[**Visit GitHub**](https://github.com/nealshiyekar/Beats-by-Dre-externship.git)
 
 <br>
 
@@ -40,7 +42,7 @@ Space X Falcon 9 First Stage Landing Prediction
 
 **Skills**: Python, EDA, Data Visualization, Machine Learning, Predictive Modeling, SQL
 
-**Link**: https://github.com/nealshiyekar/IBM-Data-Science-Capstone.git
+[**Visit GitHub**](https://github.com/nealshiyekar/IBM-Data-Science-Capstone.git)
 
 <br>
 
@@ -52,7 +54,7 @@ Space X Falcon 9 First Stage Landing Prediction
 
 **Skills**: Python, React Native, App Development
 
-**Link**: https://devpost.com/software/wingmates
+[**Visit Devpost**](https://devpost.com/software/wingmates)
 
 <br>
 
@@ -64,7 +66,7 @@ Space X Falcon 9 First Stage Landing Prediction
 - View the trends in stock prices for Microsoft using different trading strategies
 - Utilized yfinance and pandas libraries
   
-**Link**: https://colab.research.google.com/drive/1FZC4aMcyg2YW0_ei7_lyfgVlj3TpPeKv?usp=sharing
+[**Visit Colab**](https://colab.research.google.com/drive/1FZC4aMcyg2YW0_ei7_lyfgVlj3TpPeKv?usp=sharing)
 
 
 
