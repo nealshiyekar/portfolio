@@ -59,7 +59,12 @@ Space X Falcon 9 First Stage Landing Prediction
 
 ### Financial Analysis
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+- Visualize the difference in portofilio gain for Microsoft stock the past 30 years with Buy and Hold or Active Trading strategy
+- View the trends in stock prices for Microsoft using different trading strategies
+- Utilized yfinance and pandas libraries
+- 
+**Link**: https://colab.research.google.com/drive/1FZC4aMcyg2YW0_ei7_lyfgVlj3TpPeKv?usp=sharing
+
 
 
 ### Neural Network Classification
