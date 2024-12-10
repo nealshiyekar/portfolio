@@ -2,10 +2,10 @@
 #### Technical Skills: Python, SQL, Machine Learning, Data Visualization
 
 ## Education		        		
-- B.S. Data Science | The University of Texas at Dallas (_Aug 2022)
-- National Merit Scholar and Collegium V Honors
+B.S. Data Science | The University of Texas at Dallas (_Aug 2022)
+National Merit Scholar and Collegium V Honors
 
-## Projects
+## Personal Projects
 
 
 ### Kalasalingam Speech Recgnition
@@ -62,7 +62,7 @@ Space X Falcon 9 First Stage Landing Prediction
 - Visualize the difference in portofilio gain for Microsoft stock the past 30 years with Buy and Hold or Active Trading strategy
 - View the trends in stock prices for Microsoft using different trading strategies
 - Utilized yfinance and pandas libraries
-- 
+  
 **Link**: https://colab.research.google.com/drive/1FZC4aMcyg2YW0_ei7_lyfgVlj3TpPeKv?usp=sharing
 
 
