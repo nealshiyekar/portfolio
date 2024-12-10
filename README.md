@@ -21,7 +21,7 @@ National Merit Scholar and Collegium V Honors
 
 **Link**: https://www.youtube.com/watch?v=vant6FqamCY
 
-
+<br>
 
 
 ### Beats by Dre Data Analytics Externship
@@ -32,7 +32,7 @@ Draft strategic recommendations for product enhancements or marketing strategies
 
 **Link**: https://github.com/nealshiyekar/Beats-by-Dre-externship.git
 
-
+<br>
 
 ### IBM Data Science Final Project
 
@@ -42,7 +42,7 @@ Space X Falcon 9 First Stage Landing Prediction
 
 **Link**: https://github.com/nealshiyekar/IBM-Data-Science-Capstone.git
 
-
+<br>
 
 ### Wingmates - TamuHack Winner
 
@@ -54,7 +54,7 @@ Space X Falcon 9 First Stage Landing Prediction
 
 **Link**: https://devpost.com/software/wingmates
 
-
+<br>
 
 ## Class Projects
 
