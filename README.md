@@ -9,7 +9,7 @@ National Merit Scholar and Collegium V Honors
 ## Personal Projects
 
 
-### Kalasalingam Speech Recgnition
+### Kalasalingam Speech Recognition
 
 - Led team at UTD and worked concurrently with Kalasalingam Academy to build a speech module in Python that allows people to operate computer application via voice commands.
 - This application will help Amar Seva Sangam, a nonprofit in India that helps those with spinal cord injuries.
@@ -54,7 +54,28 @@ Space X Falcon 9 First Stage Landing Prediction
 
 **Skills**: Python, React Native, App Development
 
-[**Visit Devpost**](https://devpost.com/software/wingmates)
+<br>
+
+
+### DeepDetect - Artificial Intelligence Society
+
+- Users input two images into the site: one that they know is real and another that they suspect is deep faked.
+
+    - Preprocessing (FaceNet)
+    - Running through model
+    - Determining if deepfake
+
+Model:  InceptionResnetV1
+
+Determination Factor: Euclidean Distance (Threshold)
+
+Training: VGGFace2      Testing: Celeb-DF v2
+3.3 million images      590 real videos
+9131 subjects           5639 deepfaked videos
+
+Achieved Avergage AUC of 57% with our dataset and model
+
+[**Visit Colab**](https://colab.research.google.com/drive/14DZLr7wQxeFaEqGyLJKrukg3fW52419I?usp=sharing)
 
 <br>
 
@@ -82,6 +103,14 @@ Space X Falcon 9 First Stage Landing Prediction
 - K-means clustering analysis with Spark MLlib on housing datatset
 - Collaborative filtering to find the accuracy of an ALS model with
 Spark MLlib on movie ratings
+
+[**Visit Colab**](https://colab.research.google.com/drive/1P5yUPWnJTTwiPoOapF_qyf4ORWKfJjqQ?usp=sharing)
+<br>
+### Statistical Learning - PCA and Regression on Hitters Dataset
+
+- Found appropriate threshold for # of PCA components
+- Showed correlations of the standardized quantitative variables with the two components with highest explain variance
+- Fit linear, PLS, PCR, spline, and ridge regression models to find best model with lowest test MSE
 
 [**Visit Colab**](https://colab.research.google.com/drive/1P5yUPWnJTTwiPoOapF_qyf4ORWKfJjqQ?usp=sharing)
 
