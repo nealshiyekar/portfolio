@@ -69,11 +69,11 @@ Model:  InceptionResnetV1
 
 Determination Factor: Euclidean Distance (Threshold)
 
-Training: VGGFace2      Testing: Celeb-DF v2
-3.3 million images      590 real videos
-9131 subjects           5639 deepfaked videos
+Training: VGGFace2, 3.3 million images, 9131 subjects           
 
-Achieved Avergage AUC of 57% with our dataset and model
+Testing: Celeb-DF v2, 590 real videos, 5639 deepfaked videos
+
+Achieved Average AUC of 57% with our dataset and model
 
 [**Visit Colab**](https://colab.research.google.com/drive/14DZLr7wQxeFaEqGyLJKrukg3fW52419I?usp=sharing)
 
@@ -100,7 +100,7 @@ Achieved Avergage AUC of 57% with our dataset and model
 <br>
 ### Big Data - KMeans Clustering & Recommender Systems
 
-- K-means clustering analysis with Spark MLlib on housing datatset
+- K-means clustering analysis with Spark MLlib on housing dataset
 - Collaborative filtering to find the accuracy of an ALS model with
 Spark MLlib on movie ratings
 
@@ -109,8 +109,8 @@ Spark MLlib on movie ratings
 ### Statistical Learning - PCA and Regression on Hitters Dataset
 
 - Found appropriate threshold for # of PCA components
-- Showed correlations of the standardized quantitative variables with the two components with highest explain variance
-- Fit linear, PLS, PCR, spline, and ridge regression models to find best model with lowest test MSE
+- Showed correlations of the standardized quantitative variables with the two components with highest explained variance
+- Fit linear, PLS, PCR, spline, and ridge regression models to find the best model with lowest test MSE
 
 [**Visit Colab**](https://colab.research.google.com/drive/1P5yUPWnJTTwiPoOapF_qyf4ORWKfJjqQ?usp=sharing)
 
